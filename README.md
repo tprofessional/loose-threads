@@ -1,4 +1,4 @@
-# The Life of a Shirt
+# Loose Threads
 
 A branching interactive game about the lifecycle of a single garment.
 
