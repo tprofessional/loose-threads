@@ -1,0 +1,18 @@
+{
+  "artifactVersion": 2,
+  "format": "fbx",
+  "packaging": "zip",
+  "primaryPath": "Ivory-Relaxed-Tee.fbx",
+  "entries": [
+    {
+      "path": "Ivory-Relaxed-Tee.fbx",
+      "contentType": "text/plain; charset=utf-8",
+      "byteSize": 619424
+    },
+    {
+      "path": "textures/Color_d7619e3e-d65d-4b2f-bffe-4a8285b88a86-2dc46dd7cbb2.png",
+      "contentType": "image/png",
+      "byteSize": 998650
+    }
+  ]
+}
