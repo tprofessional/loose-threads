@@ -1,0 +1,53 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1,Comments,Notes,Shape ID
+1,Document,,,,,,,,,Draft,Loose Threads Flowchart,,,9996d003-052a-4ac0-9673-47ef8a4f3bea
+2,Page,,,,,,,,,,Page 1,,,0_0
+3,Display,Flowchart Shapes/Containers,2,,,,,,,,Boardroom,,,6rErrHVmRmXa
+4,Decision,Flowchart Shapes/Containers,2,,,,,,,,Material,,,NJErYUzy3PSI
+5,Display,Flowchart Shapes/Containers,2,,,,,,,,Factory,,,JOEr~I~3r05y
+6,Display,Flowchart Shapes/Containers,2,,,,,,,,Factory,,,LTErQHiWbmt.
+7,Process,Flowchart Shapes/Containers,2,,,,,,,,Clicker circle minigame miss or hit each piece costs $20,,,.5Erby3Q6~1u
+8,Process,Flowchart Shapes/Containers,2,,,,,,,,Clicker circle minigame miss or hit each piece costs $10 and $1 for the worker,,,n6ErSW07n8hV
+9,Stored data,Flowchart Shapes/Containers,2,,,,,,,,Decompose in 5 years,,,G6ErBIflM4dP
+10,Stored data,Flowchart Shapes/Containers,2,,,,,,,,Decompose in 200 years,,,66ErmoOkN-KV
+11,Data (I/O),Flowchart Shapes/Containers,2,,,,,,,,Each miss takes away $1 from price,,,B7ErbWi1E3r~
+12,Data (I/O),Flowchart Shapes/Containers,2,,,,,,,,Each miss takes away $0.1 from salary and $1 for the piece,,,H8Er9.n~b7UM
+13,Display,Flowchart Shapes/Containers,2,,,,,,,,Store,,,Y.ErRFMU1KKi
+14,Data (I/O),Flowchart Shapes/Containers,2,,,,,,,,Spin budget between $20 and $30,,,_~ErwZw9U_xe
+15,Decision,Flowchart Shapes/Containers,2,,,,,,,,Can afford it,,,tgFrdn_peDD4
+16,Display,Flowchart Shapes/Containers,2,,,,,,,,Home,,,MgFr8vyYbMLt
+17,Display,Flowchart Shapes/Containers,2,,,,,,,,Thrift,,,0gFrR5WUIz9c
+18,Process,Flowchart Shapes/Containers,2,,,,,,,,Find the shirt in the rack within 30 seconds,,,olFrnoYV8iIJ
+19,Decision,Flowchart Shapes/Containers,2,,,,,,,,Can find it,,,WlFrILbthyej
+20,Display,Flowchart Shapes/Containers,2,,,,,,,,Landfill,,,tmFrE4NLEQ7t
+21,Process,Flowchart Shapes/Containers,2,,,,,,,,"Day and night, rain, thunder etc, cycle of decomposing on street",,,ypFr-3d0lvw8
+22,Process,Flowchart Shapes/Containers,2,,,,,,,,Reselling minigame where you click to crop 3 photos at the right time (everytime missed is $1 off),,,FqFra1cBoQvU
+23,Decision,Flowchart Shapes/Containers,2,,,,,,,,costs >$1,,,YrFrMCvMHhvE
+24,Decision,Flowchart Shapes/Containers,2,,,,,,,,costs <$1,,,uzFrTPJPSxA_
+25,Data (I/O),Flowchart Shapes/Containers,2,,,,,,,,decrease price by $2 because not sold,,,2IFrlFUq3mLu
+26,Line,,2,,,3,4,None,Arrow,,,,,8JEr7MqHngIE
+27,Line,,2,,,4,9,None,Arrow,,Cotton,,,dMErQYyRIFci
+28,Line,,2,,,9,5,None,Arrow,,,,,1WErto2xFW2k
+29,Line,,2,,,10,6,None,Arrow,,,,,​-WErCVfeX4xM
+30,Line,,2,,,5,7,None,Arrow,,,,,f6ErrCqqez3h
+31,Line,,2,,,6,8,None,Arrow,,,,,u6ErV3TeGOAW
+32,Line,,2,,,7,11,None,Arrow,,,,,F7ErjDyK5Rm3
+33,Line,,2,,,8,12,None,Arrow,,,,,h9Er21Fn.a89
+34,Line,,2,,,11,13,None,Arrow,,,,,_.ErFEbW9NGO
+35,Line,,2,,,13,14,None,Arrow,,,,,obFr4HT5-iZ6
+36,Line,,2,,,12,13,None,Arrow,,,,,ubFr1YG07brQ
+37,Line,,2,,,4,10,None,Arrow,,Polyster,,,gcFrNNf_-o7J
+38,Line,,2,,,14,15,None,Arrow,,,,,EgFrOG8IT46.
+39,Line,,2,,,15,16,None,Arrow,,Yes,,,WgFrSrRO49uT
+40,Line,,2,,,15,17,None,Arrow,,No,,,dhFrUcz0VzXl
+41,Line,,2,,,17,18,None,Arrow,,,,,TlFrwwkCbU-2
+42,Line,,2,,,18,19,None,Arrow,,,,,4lFrt4hshbx7
+43,Line,,2,,,19,16,None,Arrow,,Yes,,,jmFrZCQ6.EoF
+44,Line,,2,,,20,21,None,Arrow,,,,,GpFrCwwsucOz
+45,Line,,2,,,16,22,None,Arrow,,,,,MqFrja_6HMLn
+46,Line,,2,,,22,23,None,Arrow,,,,,7rFrNbKr0OTi
+47,Line,,2,,,19,24,None,Arrow,,No,,,LzFrdB2YG8dJ
+48,Line,,2,,,24,20,None,Arrow,,Yes,,,PzFr3MtZyrKY
+49,Line,,2,,,22,,None,Arrow,,,,,DJFrHqfkPyTw
+50,Line,,2,,,23,25,None,Arrow,,Yes,,,PJFr3c_-qCG8
+51,Line,,2,,,25,17,None,Arrow,,,,,SJFrYKk2Ivbp
+52,Line,,2,,,24,25,None,Arrow,,No,,,YJFr-K5aOEgE
